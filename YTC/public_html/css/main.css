@@ -1,0 +1,8 @@
+.inline-box{display: inline-block;text-align: left;padding: 10px;margin: 5px;vertical-align: top;background-color: #cf003d;color: white;position: relative;}
+.float-text{position: absolute;color: white;}
+.screen{ max-width: 1600px;margin: 0 auto;vertical-align: top;}
+.fl_left{float: left;}
+.fl_right{float: right;}
+.menu{margin: 0;}
+.menu li{margin: 0;display: inline-block;padding: 10px;border-right: solid 1px #cccccc;}
+.menu li:last-child{display: inline-block;padding: 10px;border-right: none;}
